@@ -3,12 +3,7 @@ node_modules
 /dist
 /src/assets/font
 /src/assets/js
-/src/App.vue
-/src/main.ts
-/src/router.ts
-/tslint.json
-/vue.config.js
-/src/utils/api.ts
+
 # local env files
 .env.local
 .env.*.local
